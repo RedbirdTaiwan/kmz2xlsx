@@ -7,7 +7,7 @@
 - Save the path/folder information with additional columns.
 
 ## Use
-1. Download and save the kmz2xlsx.exe in the folder where your .kmz files are.
+1. Download and save the [kmz2xlsx.exe](https://drive.google.com/file/d/18deJ_6YCQOAOWtCrKK9qeisSqfcsgaj3/view?usp=sharing) in the folder where your .kmz files are.
 2. Double click on the kmz2xlsx.exe.
 3. A while, one .xlxs file for each .kmz files will be generated and named the same as .kmz file.
 
