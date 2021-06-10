@@ -16,6 +16,6 @@
 - 還可以把物件的各層資料夾名稱匯出成新的欄位。
 
 ## 使用說明
-1. 下載kmz2xlsx.exe並把它存到和你要處理的kmz檔同一個資料夾
+1. 下載[kmz2xlsx.exe](https://drive.google.com/file/d/18deJ_6YCQOAOWtCrKK9qeisSqfcsgaj3/view?usp=sharing)並把它存到和你要處理的kmz檔同一個資料夾
 2. 雙擊滑鼠執行kmz2xlsx.exe
 3. 一回兒後，每個.kmz檔會匯出成相同名稱的.xlxs
