@@ -9,7 +9,7 @@
 ## Use
 1. Download and save the [kmz2xlsx.exe](https://drive.google.com/file/d/18deJ_6YCQOAOWtCrKK9qeisSqfcsgaj3/view?usp=sharing) in the folder where your .kmz files are.
 2. Double click on the kmz2xlsx.exe.
-3. A while, one .xlxs file for each .kmz files will be generated and named the same as .kmz file.
+3. A while, one .xlsx file for each .kmz files will be generated and named the same as .kmz file.
 
 ## 特色
 - 可以讀出點、線、多邊形物件的名稱和座標資訊。
@@ -18,4 +18,4 @@
 ## 使用說明
 1. 下載[kmz2xlsx.exe](https://drive.google.com/file/d/18deJ_6YCQOAOWtCrKK9qeisSqfcsgaj3/view?usp=sharing)並把它存到和你要處理的kmz檔同一個資料夾
 2. 雙擊滑鼠執行kmz2xlsx.exe
-3. 一回兒後，每個.kmz檔會匯出成相同名稱的.xlxs
+3. 一回兒後，每個.kmz檔會匯出成相同名稱的.xlsx
