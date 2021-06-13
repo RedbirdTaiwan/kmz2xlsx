@@ -4,7 +4,7 @@
 
 ## Features
 - Extract names and coordinates of points, polygons and lines.
-- Save the path/folder information with additional columns.
+- Save the path/folder information in additional columns.
 
 ## Use
 1. Download and save the [kmz2xlsx.exe](https://drive.google.com/file/d/18deJ_6YCQOAOWtCrKK9qeisSqfcsgaj3/view?usp=sharing) in the folder where your .kmz files are.
